@@ -1,2 +1,2 @@
 # Personal-Portfolio
-A personal portfolio as a small web development project using HTML, CSS, and JavaScript. GitHub: [your GitHub link]
+A personal portfolio as a small web development project using HTML, CSS, and JavaScript.

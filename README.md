@@ -8,7 +8,8 @@ A personal portfolio as a small web development project using HTML, CSS, and Jav
 - Skills section with real tech logos
 - Flip-card project gallery with GitHub links
 - Downloadable resume (PDF)
-- Fully responsive across desktop, tablet, and mobile
+- Fully responsive
+- Links leading to platforms like GitHub, LeetCode and HackerRank
 
 ## Tech Stack
 - HTML5
